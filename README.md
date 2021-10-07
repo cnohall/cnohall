@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **GitHub Ultimate**
 
-- 👯 I’m looking to collaborate on [Gongdo Tech](https://www.gongdo-tech.com/)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **christopher.nohall@gmail.com**
