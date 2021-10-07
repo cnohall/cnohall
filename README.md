@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnohall&label=Profile%20views&color=0e75b6&style=flat" alt="cnohall" /> </p>
 
-- 🔭 I’m currently working on [Blockonomics](https://github.com/blockonomics)
+- 🔭 I’m currently working on [Good Pair Days](https://www.goodpairdays.com/)
 
 - 🌱 I’m currently learning **GitHub Ultimate**
 
