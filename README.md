@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Good Pair Days](https://www.goodpairdays.com/)
 
-- 🌱 I’m currently learning **GitHub Ultimate**
+- 🌱 I’m currently learning **Next**
 
 - 💬 Ask me about **React**
 
