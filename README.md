@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
-<h3 align="center">A software developer from Sweden</h3>
+<h3 align="center">A software developer from Sweden living in South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnohall&label=Profile%20views&color=0e75b6&style=flat" alt="cnohall" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **christopher.nohall@gmail.com**
+- 📫 How to reach me **chris@nohall.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
