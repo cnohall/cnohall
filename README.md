@@ -50,11 +50,5 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnohall&show_icons=true&theme=tokyonight&hide_border=true" alt="Christopher's Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cnohall&theme=tokyonight&hide_border=true" alt="Christopher's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/cnohall?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FSeoul" alt="Christopher's Stats" />
 </p>
