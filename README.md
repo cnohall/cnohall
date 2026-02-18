@@ -36,6 +36,12 @@
 | **Database** | MySQL, MongoDB, Firebase |
 | **Ops/Tools** | Git, Docker, Nginx, Linux, Postman |
 
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnohall&show_icons=true&theme=transparent" alt="cnohall's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cnohall&show_icons=true&theme=react&hide_border=true" alt="Christopher's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnohall&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
