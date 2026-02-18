@@ -41,7 +41,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cnohall&show_icons=true&theme=react&hide_border=true" alt="Christopher's Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=cnohall&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Christopher's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnohall&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=cnohall&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
