@@ -38,10 +38,17 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🛠 Tech Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,bootstrap,nodejs,php,symfony,py,mysql,mongodb,firebase,docker,nginx,linux,postman" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=cnohall&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Christopher's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=cnohall&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/cnohall?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FSeoul" alt="Christopher's Stats" />
 </p>
